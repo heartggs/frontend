@@ -14,7 +14,7 @@ function App() {
 
   return (
     <SignUp />
-    // <test></test>
+    // <test>테스트중입니다.</test>
   );
 }
 
